@@ -14,5 +14,6 @@ Each task is implemented as a **separate notebook**, accompanied by its own deta
 ## Author
 
 Yousef Shihade
+
 Information Retrieval Course  
 University of haifa
