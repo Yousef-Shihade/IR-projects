@@ -103,5 +103,7 @@ even under significant textual noise.
 
 ## Author
 Yousef Shihade
+
 Information Retrieval Course  
+
 University of haifa
